@@ -1,6 +1,6 @@
-### Hi there 👋
-
-These are the open-sourced apps, frameworks and tools I've created over the years:
+<p align="center">
+  These are the open-sourced tools, frameworks and apps I've created over the years:
+</p>
 
 <p align="center">
   <a href="https://github.com/markjivko/RPG">
