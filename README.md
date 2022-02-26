@@ -12,6 +12,8 @@ These are the open-sourced apps, frameworks and tools I've created over the year
   <a href="https://github.com/markjivko/octoms">
     <img src="./img/96/icon-octoms.png"/>
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/markjivko/fairplayer">
     <img src="./img/96/icon-fairplayer.png"/>
   </a>
@@ -21,6 +23,8 @@ These are the open-sourced apps, frameworks and tools I've created over the year
   <a href="https://github.com/markjivko/wordpress-code-review">
     <img src="./img/96/icon-potrivit.png"/>
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/markjivko/storyline">
     <img src="./img/96/icon-storyline.png"/>
   </a>
