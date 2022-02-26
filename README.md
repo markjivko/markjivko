@@ -1,5 +1,5 @@
 <p align="center">
-  These are the open-sourced tools, frameworks and apps I've created over the years:
+  These are some of the open-sourced tools, frameworks and apps I've created over the years:
 </p>
 
 <p align="center">
