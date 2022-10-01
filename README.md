@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/markjivko/RPG">
+  <a href="https://github.com/markjivko/rpg">
     <img src="./img/96/icon-rpg.png"/>
   </a>
   <a href="https://github.com/markjivko/fervoare">
