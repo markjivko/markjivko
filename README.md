@@ -31,7 +31,7 @@
   <a href="https://github.com/markjivko/php-sandbox">
     <img src="./img/96/icon-php-sandbox.png"/>
   </a>
-  <a href="https://github.com/markjivko/tatum-php-sdk">
+  <a href="https://github.com/markjivko/tatum-php">
     <img src="./img/96/icon-tatum-php-sdk.png"/>
   </a>
 </p>
