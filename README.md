@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/markjivko/tatum-php" style="display:inline-block;">
+  <a href="https://github.com/markjivko/tatum-php" style="text-decoration: none;">
     <img src="./img/96/icon-tatum-php-sdk.png"/>
   </a>
   <a href="https://github.com/markjivko/php-sandbox">
